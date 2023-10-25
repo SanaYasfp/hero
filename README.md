@@ -1,2 +1,2 @@
 # hero
-Advanced and powerfull starter for an express.js application (API or Web) with Typescript.
+A powerful set of utilities and starters for building scalable server-side applications with TypeScript/JavaScript. Combining the best routing features of Laravel and Adonis. 🚀
